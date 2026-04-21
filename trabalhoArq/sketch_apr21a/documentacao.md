@@ -4,7 +4,7 @@
 
 ## 1. Identificação da Equipe
 * [cite_start]**Lucas Calil Cavalcanti** — TA (Trabalhou Ativamente)[cite: 1].
-* [cite_start]**Russia** (Codinome de projeto do integrante) — TA (Trabalhou Ativamente)[cite: 1].
+* [cite_start]**Marco Antonio** — TA (Trabalhou Ativamente)[cite: 1].
 
 ## 2. Descrição Geral da Solução
 O projeto consiste em um sistema embarcado que simula o funcionamento de um processador real através de um **Interpretador de Instruções**. O sistema permite que um usuário insira comandos via teclado matricial, os armazene em uma memória de programa e os execute seguindo o ciclo de instrução clássico (Busca, Decodificação e Execução).
@@ -58,4 +58,3 @@ A instrução `ALERT` (Opcode 11) automatiza a segurança baseada na distância:
 
 ---
 
-**Nota para a apresentação:** Certifique-se de que o repositório no GitHub tenha o histórico de commits, conforme exigido nas regras de avaliação. Boa sorte no seu projeto de backend e no curso do IBMEC!
